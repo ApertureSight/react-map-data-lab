@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import "./MapStyles.css";
 
 export default function MapLocation(props) {

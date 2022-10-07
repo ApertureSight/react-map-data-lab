@@ -1,4 +1,4 @@
-import React, { useState, useHooks } from "react";
+import React from "react";
 
 export default function DistanceDisplay(props) {
   let lastLocation = null;
