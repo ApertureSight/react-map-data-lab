@@ -1,0 +1,54 @@
+[
+    {
+    "id": 1,
+    "name": "Tanith",
+    "position": {"x": 10, "y": 10}
+  },
+  
+  
+  {
+    "id": 2,
+    "name": "Monthax",
+    "position": {"x": 190, "y": 10}
+  },
+  
+  {
+    "id": 3,
+    "name": "Hagia",
+    "position": {"x": 220, "y": 100}
+  },
+  
+  {
+    "id": 4,
+    "name": "Verghast",
+    "position": {"x": 310, "y": 210}
+  },
+  
+  {
+    "id": 5,
+    "name": "Cirrholm",
+    "position": {"x": 130, "y": 330}
+  },
+  
+  {
+    "id": 6,
+    "name": "Gereon",
+    "position": {"x": 180, "y": 230}
+  },
+  
+  {
+    "id": 7,
+    "name": "Axe Cardinal",
+    "position": {"x": 400, "y": 600}
+  },
+  {
+    "id": 8,
+    "name": "Salvations Reach",
+    "position": {"x": 70, "y": 160}
+  },
+  {
+    "id": 9,
+    "name": "Urdesh",
+    "position": {"x": 300, "y": 300}
+  }
+  ]

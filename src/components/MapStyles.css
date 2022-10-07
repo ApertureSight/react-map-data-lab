@@ -1,0 +1,12 @@
+.location:hover {
+ border: 1px;
+ border-color: blue;
+ opacity: 50%;
+}
+
+.location:shadow
+{
+    color:red;
+    
+}
+
